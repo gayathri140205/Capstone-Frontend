@@ -1,0 +1,18 @@
+// eslint-disable-next-line no-unused-vars
+import React from 'react'
+import { BrowserRouter } from 'react-router-dom';
+import AppRouters from './routes/AppRouters';
+import "bootstrap/dist/css/bootstrap.min.css";
+import "bootstrap/dist/js/bootstrap.bundle.min.js";
+
+function App() {
+  return (
+   <>
+   <BrowserRouter>
+   <AppRouters/>
+   </BrowserRouter>
+   </>
+  )
+}
+
+export default App
