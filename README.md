@@ -7,5 +7,10 @@ smooth and intuitive user experience. Say goodbye to scattered notes and hello t
 efficient task management with our Node.js-powered solution.
 
 Frontend deployed link: https://66235ec1039ffb8ff3856307--adorable-snickerdoodle-c52c45.netlify.app/
+
+
 Backend source code link: https://github.com/gayathri140205/Capstone-Backend.git
+
+
+
 Backend deployed link: https://capstone-backend-7.onrender.com
