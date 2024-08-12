@@ -6,7 +6,7 @@ edit, and delete tasks. The frontend is built using HTML, CSS, and JavaScript to
 smooth and intuitive user experience. Say goodbye to scattered notes and hello to 
 efficient task management with our Node.js-powered solution.
 
-Frontend deployed link: https://66235ec1039ffb8ff3856307--adorable-snickerdoodle-c52c45.netlify.app/
+Frontend deployed link:https://662fb51f820bdf330e5d6117--inspiring-zuccutto-b29727.netlify.app/
 
 
 Backend source code link: https://github.com/gayathri140205/Capstone-Backend.git
